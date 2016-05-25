@@ -1,0 +1,14 @@
+Vasya Pupkin
+Eduard Petrovich Morozko
+Amigo
+getNumberOfUsers - 3
+getNumberOfUserEvents (Eduard Petrovich Morozko) - 5
+getNumberOfUserEvents (Amigo) - 2
+getUsersForIP (127.0.0.1) - [Vasya Pupkin, Eduard Petrovich Morozko, Amigo]
+getLoggedUsers - [Vasya Pupkin]
+getDownloadedPluginUsers - [Eduard Petrovich Morozko]
+getWroteMessageUsers - [Vasya Pupkin, Eduard Petrovich Morozko]
+getSolvedTaskUsers - [Vasya Pupkin, Amigo]
+getSolvedTaskUsers (task) - [Vasya Pupkin, Amigo]
+getDoneTaskUsers - [Vasya Pupkin]
+getDoneTaskUsers (task) - [Vasya Pupkin]
